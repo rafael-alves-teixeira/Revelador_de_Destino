@@ -30,11 +30,17 @@ h2 {
   margin-top: 10px;
   margin-bottom: 10px;
   opacity: 0.9;
+  text-shadow: -3px 3px #000;
 }
 
 p {
   margin-bottom: 10px;
   opacity: 0.7;
+  text-shadow: -2px 2px #000;
+  /* color: blueviolet; */
+  font-size: larger;
+  font-weight: bold;
+
 }
 
 input, button {
