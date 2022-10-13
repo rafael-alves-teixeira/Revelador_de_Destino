@@ -2,7 +2,7 @@
 <p align="center">Site interativo que responde as perguntas do usuário.</p>
 
 <h1 align="center">
-  <img alt="Imagem do projeto" title="destino" src="./destino.jpg"/>
+  <img alt="Gif do projeto" title="destino" src="./destino.gif"/>
 </h1>
 
 ---
